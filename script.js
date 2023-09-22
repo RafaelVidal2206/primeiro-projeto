@@ -14,8 +14,3 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-dark.png")
   }
 }
-
-//site do Simple Forge
-function simpleForge() {
-  alert("Site em construção!")
-}
